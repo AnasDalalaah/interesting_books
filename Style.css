@@ -21,8 +21,12 @@ header h1{
 display: inline-block;
 margin-top: 30px;
 margin-left: 50px;
+<<<<<<< HEAD
 margin-right: 60px,
 padding-right:70px;
+=======
+padding-left: 0px;
+>>>>>>> ff5c89ce0c76a1d43181e893e95da516b53a0b28
 
 }
 #social {
