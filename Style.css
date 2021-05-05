@@ -7,27 +7,19 @@ body{
 header{
   color: #08031a;
   background-color: #17dffa;
-  height: 80px;
+  height: 85px;
 }
 
 
 header h1{
   float: Center;
   margin-left: 45px;
-
-
-}
-#search {
-display: inline-block;
-margin-top: 30px;
-margin-right: 50px;
-margin-left: 50px;
-padding-left: 0px;
-
+  margin-right: 45px;
 
 
 
 }
+
 #social {
 
   float: right;
