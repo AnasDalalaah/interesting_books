@@ -20,8 +20,9 @@ header h1{
 #search {
 display: inline-block;
 margin-top: 30px;
-margin-right: 50px,
-
+margin-right: 50px;
+margin-left: 50px;
+padding-left: 0px;
 
 
 
@@ -86,7 +87,9 @@ header nav ul li a{
 
 footer{
 
-  color:rgb(0, 0, 0);
-  background-color:#12afc4;
+ height: 90px;
+ color: rgb(0, 0, 0);
+
+  background-color: #12afc4;
   text-align: center;
 }
