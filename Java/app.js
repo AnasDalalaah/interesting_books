@@ -54,4 +54,14 @@ else if(book === 'Twitter'){
 
 
 
+var stars = prompt('how many starts do you rate our website?');
+
+if (stars > 5) {
+  stars = 5;
+}
+
+for (var i = 0; i < stars; i++) {
+
+  document.write('<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDvvIxXy4-x8TSIlWn-znOZirHvrsErjpxQw&usqp=CAU" width="50px">');
+}
 
