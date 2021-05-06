@@ -22,10 +22,10 @@ var book=prompt('what do you want to read fields of environment or economics?');
 
 
 
-if(book=='Economist'){
+if(book=='economist'){
   document.write('<img src="https://prodimage.images-bn.com/pimages/9781633538009_p0_v3_s550x406.jpg"width="150px">');
 }
-else if(book === 'Environment'){
+else if(book === 'environment'){
   document.write('<img src="https://images1.penguinrandomhouse.com/cover/9780385546133" alt="Climate change" width="150px">');
 }else{
   document.write('<h2> Please check the major entry next time</h2>');
@@ -34,16 +34,17 @@ else if(book === 'Environment'){
 
 var book=prompt('What is the most important book of Confucius?');
 
-if(book == analects aonfucius){
+if(book === ' Analects Caonfucius' )
+{
   console.log('<h2>You are among the best</h2>')
 }
 
-var socialmedia platform=prompt('What is your favorite social media platform');
+var socialmedia platform=prompt('What is your favorite social media platform (Linkedin,Twitter)?');
 
 
 
 if(book=='Linkedin'){
-  document.write('<a href="www.linkedin.com">></a>');
+  document.write('<a href="www.linkedin.com"></a>');
 }
 else if(book === 'Twitter'){
   document.write(	'<a href="www.twitter.com"></a>');
