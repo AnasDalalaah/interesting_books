@@ -34,7 +34,7 @@ else if(book === 'Environment'){
 
 var book=prompt('What is the most important book of Confucius?');
 
-if(book ==  Analects Confucius){
+if(book == analects aonfucius){
   console.log('<h2>You are among the best</h2>')
 }
 
@@ -43,7 +43,7 @@ var socialmedia platform=prompt('What is your favorite social media platform');
 
 
 if(book=='Linkedin'){
-  document.write('<a href="www.linkedin.com/khair.shkokany1">></a>');
+  document.write('<a href="www.linkedin.com">></a>');
 }
 else if(book === 'Twitter'){
   document.write(	'<a href="www.twitter.com"></a>');
