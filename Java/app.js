@@ -17,9 +17,12 @@ alert('hello');
 var F.N= Anas Dalalah;
 console.log(F.N);
 */
+var book = prompt('What do you want to read fields of environment or economics?');
 
-var book=prompt('what do you want to read fields of environment or economics?');
+while (book !== 'economist' && book !== 'environment') {
+  book = prompt('Please check the major entry next time');
 
+}
 
 
 if(book=='economist'){
