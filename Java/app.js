@@ -17,9 +17,12 @@ alert('hello');
 var F.N= Anas Dalalah;
 console.log(F.N);
 */
+var book = prompt('What do you want to read fields of environment or economics?');
 
-var book=prompt('what do you want to read fields of environment or economics?');
+while (book !== 'economist' && book !== 'environment') {
+  book = prompt('Please check the major entry next time');
 
+}
 
 
 if(book=='economist'){
@@ -39,7 +42,7 @@ if(book === ' Analects Caonfucius' )
   console.log('<h2>You are among the best</h2>')
 }
 
-var socialmedia platform=prompt('What is your favorite social media platform (Linkedin,Twitter)?');
+var socialmedia-platform=prompt('What is your favorite social media platform (Linkedin,Twitter)?');
 
 
 
