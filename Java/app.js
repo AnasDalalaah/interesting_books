@@ -76,12 +76,14 @@ if(socialmediaplatform==='Linkedin'){
 }
 
 else if(socialmediaplatform==='Twitter')
+
 {
   document.write('<a href="https://twitter.com/?lang=en">Twitter</a>');
 }
 else{
   document.write('<h2> Please check the major entry next time</h2>');
 }
+
 
 
 
