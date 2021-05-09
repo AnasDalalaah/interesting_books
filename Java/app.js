@@ -50,10 +50,11 @@ if(socialmediaplatform=prompt =='Linkedin'){
   document.write('<a href="www.linkedin.com"></a>');
 }
 else if(socialmediaplatform=prompt === 'Twitter'){
-  document.write(	'<a href="www.twitter.com"></a>');
-}else{
-  document.write('<h2> Your request does not exist, please try again</h2>');
-}
+
+var socialmedia-platform= prompt('What is your favorite social media platform (Linkedin,Twitter)?');
+
+
+
 
 
 
