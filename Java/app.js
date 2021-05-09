@@ -48,6 +48,7 @@ var socialmediaplatform = prompt('What is your favorite social media platform (L
 if(socialmediaplatform=prompt =='Linkedin'){
   document.write('<a href="www.linkedin.com"></a>');
 }
+
 else if(socialmediaplatform=prompt === 'Twitter')
 {
   document.write('<a href="https://twitter.com/?lang=en"></a>');
@@ -55,7 +56,8 @@ else if(socialmediaplatform=prompt === 'Twitter')
 else{
   document.write('<h2> Please check the major entry next time</h2>');
 }
-}
+
+
 
 
 
